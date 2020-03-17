@@ -1,0 +1,11 @@
+C:\Users\Teu\source\repos\fundamentos\bin\Debug\netcoreapp2.2\fundamentos.deps.json
+C:\Users\Teu\source\repos\fundamentos\bin\Debug\netcoreapp2.2\fundamentos.runtimeconfig.json
+C:\Users\Teu\source\repos\fundamentos\bin\Debug\netcoreapp2.2\fundamentos.runtimeconfig.dev.json
+C:\Users\Teu\source\repos\fundamentos\bin\Debug\netcoreapp2.2\fundamentos.dll
+C:\Users\Teu\source\repos\fundamentos\bin\Debug\netcoreapp2.2\fundamentos.pdb
+C:\Users\Teu\source\repos\fundamentos\obj\Debug\netcoreapp2.2\fundamentos.csprojAssemblyReference.cache
+C:\Users\Teu\source\repos\fundamentos\obj\Debug\netcoreapp2.2\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Teu\source\repos\fundamentos\obj\Debug\netcoreapp2.2\fundamentos.AssemblyInfoInputs.cache
+C:\Users\Teu\source\repos\fundamentos\obj\Debug\netcoreapp2.2\fundamentos.AssemblyInfo.cs
+C:\Users\Teu\source\repos\fundamentos\obj\Debug\netcoreapp2.2\fundamentos.dll
+C:\Users\Teu\source\repos\fundamentos\obj\Debug\netcoreapp2.2\fundamentos.pdb
